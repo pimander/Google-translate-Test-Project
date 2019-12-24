@@ -1,0 +1,9 @@
+tests documentation (google Sheets):
+
+1. Check list Web;
+2. Check list Mobile;
+3. TestSuite Web;
+4. TestSuit Mobile;
+5. Use cases Web for Automation tests.
+
+https://docs.google.com/spreadsheets/d/1Pj-15n4hG00pl61dBT_qTEVuHsLk3Hj0mgwKEBGowFE/edit?usp=sharing
